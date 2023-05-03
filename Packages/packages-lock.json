@@ -76,6 +76,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.probuilder": {
       "version": "5.0.7",
       "depth": 0,
@@ -96,6 +97,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> main
     "com.unity.services.core": {
       "version": "1.4.2",
       "depth": 1,
@@ -109,7 +112,11 @@
     },
     "com.unity.settings-manager": {
       "version": "1.0.3",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> main
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
