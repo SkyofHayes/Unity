@@ -32,7 +32,6 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody rb;
 
 
-
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
